@@ -9,8 +9,5 @@
         }
       }
     }
-  },
-  "whitelisted-domains": [
-    "https://<%= iparam.freshdesk_domain %>.freshdesk.com"
-  ]
+  }
 }
